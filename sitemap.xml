@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <!-- Main Page - Growth a Garden Calculator -->
+    <url>
+        <loc>https://www.growthagardencalculator.org/</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.growthagardencalculator.org/assets/1.png</image:loc>
+            <image:title>Growth a Garden Calculator Interface</image:title>
+            <image:caption>Main calculator interface for Roblox Grow a Garden game</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Crop Value Calculator -->
+    <url>
+        <loc>https://www.growthagardencalculator.org/crop-calculator</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.growthagardencalculator.org/assets/2.png</image:loc>
+            <image:title>Crop Value Calculator for Grow a Garden</image:title>
+            <image:caption>Calculate crop values with mutations in Roblox Grow a Garden</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Pet XP Calculator -->
+    <url>
+        <loc>https://www.growthagardencalculator.org/pet-xp-calculator</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.growthagardencalculator.org/assets/3.png</image:loc>
+            <image:title>Pet XP Calculator for Grow a Garden Roblox</image:title>
+            <image:caption>Predict pet leveling time and XP requirements</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Egg Hatching Calculator -->
+    <url>
+        <loc>https://www.growthagardencalculator.org/egg-hatch-calculator</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.growthagardencalculator.org/assets/4.png</image:loc>
+            <image:title>Egg Hatching Calculator for Growth a Garden</image:title>
+            <image:caption>Optimize egg hatching strategies in Roblox game</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Pet Weight Calculator -->
+    <url>
+        <loc>https://www.growthagardencalculator.org/pet-weight-calculator</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.growthagardencalculator.org/assets/5.png</image:loc>
+            <image:title>Pet Weight Calculator for Grow a Garden</image:title>
+            <image:caption>Analyze pet weight growth potential in Roblox</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Guide Pages for SEO -->
+    <url>
+        <loc>https://www.growthagardencalculator.org/guides/best-crops</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.growthagardencalculator.org/guides/mutation-combinations</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.growthagardencalculator.org/guides/pet-leveling-guide</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.growthagardencalculator.org/guides/egg-hatching-tips</loc>
+        <lastmod>2024-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
