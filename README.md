@@ -2,7 +2,7 @@
 
 **The Ultimate Growth a Garden Calculator** for Roblox's popular farming game! Free online calculators for crop values, pet XP, egg hatching, and pet weight. Optimize your Grow a Garden gameplay with data-driven insights and real-time calculations.
 
-🚀 **Try it now**: [https://www.growthagardencalculator.org/](https://www.growthagardencalculator.org/)
+🚀 **Try it now**: [https://growthagardencalculator.tech/](https://growthagardencalculator.tech/)
 
 
 ## 🔍 What Is the Growth a Garden Calculator for Roblox?
@@ -71,7 +71,7 @@ Great for casual players, speed-runners, and competitive leaderboard grinders!
 
 ## 🛠 How to Use the Growth a Garden Calculator
 
-1. **Visit** [https://www.growthagardencalculator.org/](https://www.growthagardencalculator.org/)
+1. **Visit** [https://growthagardencalculator.tech/](https://growthagardencalculator.tech/)
 2. **Choose** a calculator from the navigation menu
 3. **Input** your game data (crop type, mutations, pet level, etc.)
 4. **Get** instant results and optimization suggestions
@@ -149,7 +149,7 @@ Our **Growth a Garden calculator** supports ALL game content from the Roblox gam
 
 ## 🔗 Links
 
-- **Growth a Garden Calculator**: [https://www.growthagardencalculator.org/](https://www.growthagardencalculator.org/)
+- **Growth a Garden Calculator**: [https://growthagardencalculator.tech/](https://growthagardencalculator.tech/)
 - **GitHub Repository**: [https://github.com/xyzs996/GrowAGardenCalculatorRoblox](https://github.com/xyzs996/GrowAGardenCalculatorRoblox)
 - **Report Issues**: [GitHub Issues](https://github.com/xyzs996/GrowAGardenCalculatorRoblox/issues)
 - **Community Discussions**: [GitHub Discussions](https://github.com/xyzs996/GrowAGardenCalculatorRoblox/discussions)
